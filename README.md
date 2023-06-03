@@ -1,1 +1,1 @@
-# Software-Quality-Assurance
+# Selenium Automation Project
